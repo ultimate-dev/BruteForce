@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CheatSheetGenerate.iml" filepath="$PROJECT_DIR$/.idea/CheatSheetGenerate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BruteForce.iml" filepath="$PROJECT_DIR$/.idea/BruteForce.iml" />
     </modules>
   </component>
 </project>
